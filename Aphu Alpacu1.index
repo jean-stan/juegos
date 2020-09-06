@@ -1,0 +1,49 @@
+<html>
+<head>
+<title> Bienvenidos:Aphu Alpacu  </title>
+</head>
+<body background="imagen/123.jpg" size"30">
+<table border=0  width= 95% bgcolor=gray>
+<tr height=40>
+      <td width=3%>  </td>
+      <td width=6%>  <font color=black>  </td>
+      <td width=6%> <font color=black>  </td>
+      <td width=7%> <font color=black> APHU ALPACU   </td>
+      <td width=9%> <font color=black>  QUIENES SOMOS  </td>
+      <td width=11%> <font color=black> QUE HACEMOS  </td>
+      <td width=9%> <font color=black> INFORMACION  </td>
+      <td width=3%> CONTACTENOS </td>
+      <td width=1%>  </td>
+      <td width=3%>  </td>
+      <td width=3%>  </td>
+      <td width=3%>  </td>
+</tr>
+<table border=0 width=95%>
+<tr height=20>
+<td width=70%> <img src="imagen\alpacaen.jpg">  </td>
+<td width=50%> Nacimos con una herencia que viene desde los orígenes de la modernidad industrial, y evoca al mismo tiempo las tradiciones antiguas de las personas que llevaban hilos finos regalo de los dioses.
+
+
+
+estamos trabajando para Ser referente mundial en la fabricación y comercialización de prendas únicas de Alpaca y Vicuña”
+
+
+
+
+
+Satisfaceremos las necesidades de clientes sofisticados a través de productos únicos de Alpaca y Vicuña vinculados a conceptos innovadores con procesos sostenibles e integrados.
+
+Trascendemos como empresa asegurando la continuidad de los grupos de interés en especial los productores de estas fibras nobles.”</td>
+
+<tr height=50>
+<table border=0 width=95%>
+<td width=45%> CERTIFICASIONES INTERNASIONALES </td>
+<td width=50%> </td>
+</tr>
+
+<tr height=50>
+<table border=0 width=95%>
+<td width=45%> <img src="imagen\bas.png">  </td>
+<td width=30%> <img src="imagen\oea.JPG">  </td>
+</body>
+</html>
